@@ -28,7 +28,7 @@ cv.imshow('Combined Sobel'  , combined_sobel)
 # canny edge detector
 canny = cv.Canny(gray , 150 , 175)
 cv.imshow('Canny' , canny)
-
+ 
 
 
 
